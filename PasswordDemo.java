@@ -13,7 +13,6 @@ class PasswordDemo {
 		String userName = obj.nextLine();
 
 		System.out.print("Enter Phone Number : ");
-		7
 		String phoneNumber = obj.nextLine();
  
 		String numberSeries = "1234567890";
